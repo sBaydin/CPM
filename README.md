@@ -16,3 +16,5 @@ I put the Excel file as an attachment. You can use it as a template and you can 
 Known failures:
 
 It makes errors in some of the Free Slack values when calculating. I would appreciate if there are friends who can help me with this issue.
+
+Please ask if you don't understand somewhere. Some parts may not be understood because the explanations are written in Turkish.
